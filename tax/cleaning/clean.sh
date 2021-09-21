@@ -1,0 +1,1 @@
+# Erase the hdfs directory
